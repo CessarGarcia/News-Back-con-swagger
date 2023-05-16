@@ -40,7 +40,7 @@ app.use("/api/docs", swaggerUI.serve, swaggerUI.setup( swaggerJsDoc({
                 url: "http://localhost:3000"
             },
             {
-                url: "https://agenspresse.vercel.app/"
+                url: "news-back-con-swagger.vercel.app/"
             }
         ]
     },
